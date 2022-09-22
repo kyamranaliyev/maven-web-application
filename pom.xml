@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.162.160.174:8081/repository/telsa-fe-releases/</url>
+	      <url>http://52.91.222.37:8081/repository/telsa-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.162.160.174:8081/repository/tesla-fe-snapshots/</url>
+	      <url>http://52.91.222.37:8081/repository/tesla-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
