@@ -28,7 +28,7 @@ node{
 Check Build status 
 
 Landmark Technologies ''', recipientProviders: [buildUser(), developers(), upstreamDevelopers()], subject: 'build status ', to: 'kyamran.aliyev@yahoo.com'
-  }
   */
+  }
   }
   }
